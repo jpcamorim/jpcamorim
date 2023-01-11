@@ -28,7 +28,7 @@ Atualmente estou 100% focado na linguagem Python, mas tenho interese em SQL,HTML
 <!--START_SECTION:waka-->
 
 ```text
-Python       20 hrs          ████████████       50 %
-faculd       20 hrs          ████████████       50 %
+Python       20 hrs          ████████████     50 %
+faculdade    20 hrs          ████████████     50 %
 
 
